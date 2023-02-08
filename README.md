@@ -1,0 +1,2 @@
+# LLBCTeamFight
+一个基于LiteLoader的BDS的阵营对抗生存脚本插件
